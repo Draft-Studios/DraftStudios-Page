@@ -1246,6 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 1.333;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
+	
 	color: #ED5C61;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -2818,7 +2819,7 @@ html.no-csstransitions .home-content__main {
 	background-position: center top;
 	padding-top: 20rem;
 	padding-bottom: 20rem;
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(133, 133, 133, 0.708);
 	position: relative;
 }
 
@@ -2829,7 +2830,7 @@ html.no-csstransitions .home-content__main {
 	width: 100%;
 	height: 100%;
 	opacity: .8;
-	background-color: #78A7C2;
+	background-color: rgba(194, 194, 194, 0.55);
 }
 
 .s-contact .form-field {
