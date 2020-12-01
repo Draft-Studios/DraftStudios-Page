@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+}
+#main-div{
+    background-image: linear-gradient(rgba(209,127,123,0.8), rgba(208,127,123,0.8)), url("167.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.ls-logo{
+    padding-top: 100px;
+    padding-left: 4em;
+    height: 11em;
+    width: auto;
+}
+
+.header-text{
+    font-family: 'Gibson', sans-serif;
+    font-size:75px;
+    font-weight:700;
+    color: white;
+}
+
+.general-text{
+    font-family: 'Gibson', sans-serif;
+    font-size: 38px;
+    font-weight:500;
+    color: white;
+}
+ 
+.text-div{
+    margin-top: 150px;
+}
+
